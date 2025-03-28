@@ -31,7 +31,7 @@ const menuItems = [
 const Home = () => {
   return (
     <div>
-      <h1>Bienvenidos al Restaurante</h1>
+      <h1>Bienvenidos al Restaurante de BRENDA</h1>
       <p>Disfruta de una experiencia culinaria única.</p>
       <p>Explora nuestro menú y haz tu pedido online.</p>
 
